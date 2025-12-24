@@ -160,7 +160,7 @@ Copy code
 python final_module_script.py
 This prints metrics for the Dummy baseline, the default Random Forest, and the tuned-threshold Random Forest, and generates the confusion matrix and feature-importance plots.
 
-Limitations
+## Limitations
 This is an instructional project, not an operational marine safety tool. Important limitations include:
 
 The model uses data from a single buoy as a proxy for conditions across the estuary.
